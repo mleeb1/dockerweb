@@ -1,0 +1,4 @@
+text eol=crlf
+*.deploy binary
+*.manifest binary
+*.application binary
